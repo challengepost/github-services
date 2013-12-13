@@ -1,0 +1,10 @@
+Install Notes
+-------------
+
+Create ChallengePost submissions and keep them up-to-date by enabling the Github service hook.
+
+1. Create an account at http://challengepost.com
+2. Enter your Token (see instructions below)
+
+To get your Token: Log into your Code Climate account and visit the 'Settings' link in the top navigation dropdown.
+
